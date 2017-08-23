@@ -1,0 +1,78 @@
+.middle {
+    margin-bottom: 78px;
+}
+.middle .carousel-indicators li {
+    height: 20px;
+    width: 20px;
+    margin: 0 12px;
+    background: #fff;
+    border: 0;
+}
+.middle .carousel-indicators .active {
+    background: #f00;
+}
+.middle .list {
+    margin-top: 52px;
+}
+.middle .title {
+    background:url(../images/index_title.png) no-repeat center;
+}
+.middle .title h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+}
+.middle .title h3 span {
+    margin-right: 22px;
+}
+.middle .title h3 i {
+    color: #f00;
+}
+.middle .advertise {
+    width:100%;
+    display: block;
+    margin-top:22px;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    border:0;
+    color: #f00;
+}
+.tab-pane ul li {
+    margin-bottom:20px;
+}
+.tab-pane ul li .item{
+    border:2px solid #fff;
+    overflow: hidden;
+}
+.tab-pane ul li img{
+    width:100%;
+}
+.tab-pane ul .text {
+    padding: 3px 6px;
+}
+.tab-pane ul .text p {
+    font-size:12px;
+}
+.tab-pane ul li .text span {
+    font-size:18px;
+    color: #f00;
+    margin-top:3px;
+    margin-bottom: 5px;
+    display:inline-block;
+}
+.tab-pane ul li .pro_shopcart {
+    width:20%;
+    float: right;
+    margin-top:-14px;
+    background:transparent;
+    border:0;
+    display: none;
+}
+.tab-pane ul li .item:hover {
+    border:2px solid #f00;
+}
+.tab-pane ul li .item:hover .pro_shopcart{
+    display:block;
+}
+
+

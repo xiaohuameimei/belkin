@@ -1,0 +1,70 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .content {
+    background:url(../images/pay_bg.jpg) no-repeat;
+    padding: 45px 0;
+}
+.middle .detail {
+    background:#fff;
+    padding:65px 0 60px;
+    overflow:hidden;
+}
+.middle .detail .top a {
+    color: #f00;
+    line-height:25px;
+}
+.middle .detail .top a:first-child {
+    margin-left:85px;
+    margin-right: 4px;
+}
+.middle .text {
+    background:#ecffdc;
+    padding:15px 0 15px 32px;
+    overflow:hidden;
+}
+.middle .text img {
+    float: left;
+}
+.middle .text p {
+     float: left;
+     font-size:18px;
+     line-height:40px;
+     color:#333;
+     margin-left:12px;
+}
+.middle .text p span {
+    font-size:14px;
+    color:#666;
+    margin-left:10px;
+}
+.middle .detail .bottom {
+    margin-left:40px;
+    margin-top: 10px;
+}
+.middle .detail .bottom p {
+    font-size:18px;
+    color:#666;
+    line-height:35px;
+}
+.middle .detail .bottom p:nth-child(1){
+    color:#333;
+}
+.middle .detail .bottom p span {
+    color:#f22;
+    margin-left:15px;
+}
+.middle .detail .bottom a {
+    color:#56a2c7;
+    margin-left:10px;
+}

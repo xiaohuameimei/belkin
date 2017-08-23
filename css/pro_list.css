@@ -1,0 +1,212 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .brand {
+    margin-bottom:20px;
+}
+.middle .kind {
+    margin-bottom:20px;
+}
+.middle .color {
+    margin-bottom:20px;
+}
+.middle .brand ul , .middle .kind ul , .middle .color ul {
+    overflow:hidden;
+}
+.middle .brand label , .middle .kind label ,.middle .color label , .middle .brand label , .middle .filter label {
+    font-weight:normal;
+    font-size:18px;
+}
+.middle .brand ul li {
+    float: left;
+    margin-left:6%;
+    line-height:25px;
+}
+.middle .brand .active a{
+    color:#f22;
+}
+.middle .kind .active a{
+    color:#f22;
+}
+.middle .color .active a{
+    color:#f22;
+}
+.middle .brand ul li:first-child {
+    margin-left:0;
+}
+.middle .brand ul li a , .middle .kind ul li a , .middle .color ul li a{
+    font-size:14px;
+    color:#666;
+    background:transparent;
+    border:0;
+}
+.middle .kind ul li , .middle .color ul li {
+    float: left;
+    width:11%;
+    line-height:25px;
+}
+.filter .price {
+    float: left;
+}
+.filter .price input {
+    width: 74px;
+    height: 20px;
+    border:0;
+    padding: 0 5px;
+}
+.filter .price span {
+    color:#666;
+    line-height:25px;
+    float:left;
+}
+.filter .price .price_input {
+    float:left;
+    border:1px solid #666;
+    margin: 2.5px 5px 0;
+}
+.filter .price_input input {
+    width: 58px;
+    height: 18px;
+    border:0;
+    padding:5px;
+    float: left;
+    font-size:12px;
+}
+.filter .price_input span {
+    line-height:18px;
+    float: left;
+    margin: 0 0 0 5px;
+}
+.filter .keywords {
+    float: left;
+    margin-left:3%;
+}
+.filter .keywords input {
+    width: 136px;
+    height: 20px;
+    float: left;
+    border:1px solid #000;
+    margin-top:2.5px;
+    padding: 0 5px;
+    font-size:12px;
+}
+.filter .keywords span {
+    float: left;
+    line-height:25px;
+}
+.filter .keywords button {
+    line-height: 20px;
+    border:0;
+    background:#000;
+    padding: 0 5px;
+    color:#fff;
+    font-size:12px;
+}
+.sequence {
+    margin-top:40px;
+}
+.sequence ul {
+    overflow:hidden;
+}
+.sequence ul li {
+    float: left;
+}
+.sequence ul li button {
+    background:transparent;
+    border:1px solid #000;
+    margin-left:-1px;
+    font-size:24px;
+    padding: 2px 27px;
+}
+.sequence ul li:first-child button{
+    margin-left:0;
+}
+.sequence ul .active button{
+    color:#f22;
+}
+.list {
+    margin-top:40px;
+}
+.list li {
+    margin-bottom:20px;
+}
+.list li .item{
+    border:2px solid #fff;
+    overflow: hidden;
+}
+.list li img{
+    width:100%;
+}
+.list .text {
+    padding: 18px 6px 5px;
+}
+.list .text p {
+    font-size:12px;
+    color:#666;
+    font-size:20px;
+    line-height:40px;
+}
+.list li .text span {
+    font-size:18px;
+    color: #f00;
+    margin-top:3px;
+    margin-bottom: 5px;
+    display:inline-block;
+}
+.list li .pro_shopcart {
+    width:20%;
+    float: right;
+    margin-top:0;
+    background:transparent;
+    border:0;
+    display: none;
+}
+.list li .pro_shopcart img {
+    width: auto;
+}
+.list li .item:hover {
+    border:2px solid #f00;
+}
+.list li .item:hover .pro_shopcart{
+       display:block;
+}
+.page {
+    overflow:hidden;
+    float: right;
+    margin-right:5px;
+    margin-top:40px;
+}
+.page li {
+    float: left;
+    border:1px solid #000;
+    margin-left:20px;
+}
+.page li:nth-child(4){
+    padding:5px 15px;
+}
+.page li a {
+    color:#333;
+    padding:5px 15px;
+}
+.page .active {
+    border-color: #f00;
+}
+.page .active a{
+    color:#f00;
+}
+.page li:hover {
+    border-color: #f00;
+}
+.page li:hover a {
+    color:#f00;
+}

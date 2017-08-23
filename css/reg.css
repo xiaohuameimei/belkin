@@ -1,0 +1,113 @@
+.header {
+    background:url(../images/reg_bg.png) no-repeat;
+    background-position: 0 100%;
+}
+.header .center {
+    overflow:hidden;
+}
+.header .center .logo {
+    float: left;
+    margin-top: 30px;
+}
+.header span {
+    float: left;
+    font-size: 30px;
+    margin:66px 0 0 25px;
+    color: #f22;
+}
+.header p {
+    text-align: right;
+    font-size:18px;
+    color:#666;
+    margin-bottom:15px;
+}
+.header p a {
+    color:#333;
+}
+.middle {
+    margin-bottom:160px;
+}
+.middle .col-md-2 {
+    width: 10%;
+}
+.middle .col-md-5 {
+    width: 45%;
+}
+.middle .input {
+    margin-top:40px;
+    border:1px solid #000;
+    overflow:hidden;
+}
+.middle form span {
+    font-size:18px;
+    color:#333;
+    line-height:77px;
+    padding: 0 0 0 15px;
+}
+.middle form select {
+    border:0;
+    font-size:18px;
+    color:#333;
+    height:77px;
+    padding: 0 0 0 15px;
+}
+.middle form input {
+    padding:0 0 0 25px;
+    line-height:77px;
+    height: 77px;
+    font-size:18px;
+    border:0;
+}
+.middle #code {
+    height: 77px;
+    width:160px;
+    margin-top:-77px;
+    float: right;
+    margin-right: -15px;
+}
+.middle .agree {
+    cursor: pointer;
+    margin-top:50px;
+    overflow:hidden;
+    margin-bottom:41px;
+}
+.middle .agree p {
+    float: left;
+    font-size:18px;
+    color:#333;
+    margin-left:5px;
+}
+.middle .agree p a {
+    color:#f22;
+}
+.middle .agree .check {
+    background:url(../images/login_kuang.jpg) no-repeat;
+    height:28px;
+    width:28px;
+    float: left;
+}
+.middle .agree .selected {
+    background:url(../images/login_gou.jpg) no-repeat;
+}
+.middle .bottom {
+    margin: 0 auto;
+    margin-top:74px;
+    overflow:hidden;
+}
+.middle .bottom input {
+    width:18%;
+    border: 0;
+    padding:0;
+    margin:0 6%;
+    height:45px;
+    line-height:45px;
+    color:#fff;
+}
+.middle .bottom .submit {
+    background:#e60012;
+    float: right;
+}
+.middle .bottom .reset {
+    background:#666;
+    float: right;
+}

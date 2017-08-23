@@ -1,0 +1,134 @@
+.middle {
+    margin-bottom:55px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .title {
+    margin-bottom:22px;
+}
+.middle .title h3 {
+    text-align: center;
+    font-weight:normal;
+    font-size:24px;
+    color:#333;
+}
+.middle .title p {
+    text-align: center;
+    line-height: 62px;
+}
+.middle .title p span {
+    font-size:16px;
+    color: #666;
+    padding: 0 35px;
+}
+.middle .left img {
+    width: 100%;
+    margin-bottom:20px;
+}
+.middle .left p {
+    font-size:18px;
+    color:#666;
+    text-align: right;
+    line-height:45px;
+}
+.middle .left p:nth-child(3) {
+    color:#f22;
+}
+.middle .right {
+    margin-top:40px;
+    padding:0 0 0 30px;
+}
+.middle .right .evaluate {
+    overflow:hidden;
+    margin-bottom:15px;
+}
+.middle .right .score {
+    line-height: 33px;
+}
+.middle .right h3 {
+    color:#666;
+    font-weight:normal;
+    line-height:35px;
+}
+.middle .right span {
+    font-size:12px;
+    color:#999;
+}
+.middle .right .star {
+    display: inline;
+    margin: 10px;
+}
+.middle .right .input-group {
+    margin-top:-1px;
+}
+.middle .right .text span{
+    background:#e2dfdf;
+    border:1px solid #cdcbcb;
+    border-radius: 0;
+    border-left: 0;
+    color:#333;
+    width: 90px;
+    text-align:center;
+    height: 68px;
+}
+.middle .right .text textarea {
+    border-radius:0;
+    border-left: 0;
+    height: 68px;
+}
+.middle .right .text textarea:last-child {
+    position:relative;
+}
+.middle .right .text .pic button {
+    position: absolute;
+    background:transparent;
+    border:0;
+    right:32px;
+    top:19px;
+    z-index: 2;
+}
+.middle .right .submit {
+    margin-top:64px;
+    overflow:hidden;
+}
+.middle .right .submit span{
+    background:transparent;
+    border:0;
+}
+.middle .right .submit button {
+    background:#eb2f2f;
+    color: #fff;
+    border:0;
+    padding:6px 40px;
+    font-size:24px;
+    float: left;
+}
+.middle .right .submit .agree {
+    float: left;
+    margin-left:40px;
+    line-height:46px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.middle .right .submit .agree span {
+    font-size:16px;
+    margin-left:14px;
+    margin-top:2px;
+}
+.middle .right .submit .agree .check { float: left;}
+.selecked {
+    background:url(../images/comments_gou.png) no-repeat center;
+}
+.form-control:focus{
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-color: #ccc;
+}
+

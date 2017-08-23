@@ -1,0 +1,168 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .top {
+    background: #dfdddd;
+    border: 1px solid #afafaf;
+    padding: 18px 20px;
+    overflow:hidden;
+}
+.middle .top img{
+    width: 12%;
+}
+.middle .text {
+    padding-left: 30px;
+}
+.middle .text h3 {
+    font-weight: normal;
+    font-size: 16px;
+    color:#333;
+    margin-bottom:12px;
+    line-height:25px;
+}
+.middle .text p {
+    line-height:35px;
+    color:#666;
+}
+.middle .text p span {
+    color:#eb2f2f;
+}
+.middle .method {
+    margin: 25px 50px;
+}
+.middle .method .title {
+    font-size:16px;
+    color:#333;
+    font-weight:normal;
+}
+.middle .method .list {
+    padding: 8px 25px 0;
+    border:1px solid #afafaf;
+    margin-top: 18px;
+}
+.middle .method .list h3 {
+    font-size:16px;
+    color:#666;
+    font-weight:normal;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #cfcccc;
+}
+.list ul {
+    overflow:hidden;
+    margin-bottom:42px;
+}
+.list ul li {
+    width:18%;
+    float: left;
+    height:40px;
+    border:1px solid #cfcccc;
+    overflow:hidden;
+    cursor: pointer;
+    margin:22px 9.5px 0;
+}
+.list ul li img {
+    width:98%;
+    height:34px;
+}
+.list ul li .bank {
+    padding:3px;
+}
+.list .check {
+    background:url(../images/pay_02.png) no-repeat center;
+    height: 40px;
+    padding:0;
+}
+.list .active {
+    background:url(../images/pay_01.png) no-repeat center;
+    height: 40px;
+}
+.list .used {
+    border-top: 1px solid #cfcccc;
+    margin:0 -25px;
+    overflow:hidden;
+}
+.list .used ul {
+    float: left;
+    margin-bottom:0;
+}
+.list .used_bank {
+    margin:22px 34.5px;
+    overflow:hidden;
+    border:0;
+    width:100%;
+}
+.list .used_bank img {
+    width:auto;
+}
+.list .used span {
+    line-height:80px;
+    font-size:16px;
+    color:#666;
+    margin:0 60px 0 45px;
+}
+.list .used i {
+    line-height:80px;
+    font-size:16px;
+    color:#666;
+    padding:0 8px;
+}
+.list .used i:last-child {
+    border-left: 1px solid #cfcccc;
+}
+.pay {
+    padding:15px 45px;
+}
+.pay h3 {
+    font-size:16px;
+    font-weight:normal;
+    margin-bottom:32px;
+}
+.pay h3 img {
+    margin-right: 18px;
+}
+.pay label {
+    font-weight:normal;
+    font-size:16px;
+    color:#333;
+    margin-left: 34px;
+    margin-bottom:15px;
+    display: block;
+}
+.pay input {
+    height:53px;
+    width:58px;
+    text-align: center;
+    font-size:30px;
+    margin-left:-1px;
+}
+.pay .password {
+    margin-left: 34px;
+}
+.pay .password a {
+    color:#666;
+    margin-left:22px;
+    font-size:16px;
+}
+.pay p {
+    font-size:16px;
+    color:#999;
+    margin:22px 34px 40px;
+}
+.pay button {
+    border:0;
+    color:#fff;
+    background:#eb2f2f;
+    padding:18px 60px;
+    font-size:24px;
+    margin-left:34px;
+}

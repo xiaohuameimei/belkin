@@ -1,0 +1,214 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .schedule {
+    background: url(../images/shop_cart_bg.png) no-repeat center 35%;
+    overflow:hidden;
+    margin-bottom:30px;
+}
+.middle .schedule p {
+    width: 80px;
+    line-height:80px;
+    margin: 0 auto;
+    text-align: center;
+    color:#fff;
+    background:#777;
+    border-radius: 50px;
+    font-size: 30px;
+}
+.middle .schedule span {
+    display: block;
+    text-align: center;
+    font-size:18px;
+    color:#666;
+    margin-top:17px;
+}
+.middle .schedule .active p{
+    background:#fd0606;
+}
+.middle .title h3 {
+    font-weight: normal;
+    color:#fd0606;
+    font-size:24px;
+    padding-bottom: 18px;
+    border-bottom:1px solid #b5b5b5;
+}
+.middle .allCheck {
+    overflow:hidden;
+    cursor: pointer;
+}
+.middle .allCheck .check {
+    float: left;
+}
+.middle .allCheck span {
+    font-size:12px;
+    margin-top: 3px;
+    float: left;
+    margin-left: 10px;
+}
+.middle .allCheck .active {
+    background:url(../images/shop_cart_gou.png) no-repeat center 55%;
+}
+.middle .agree {
+    overflow:hidden;
+    cursor: pointer;
+}
+.middle .agree .check {
+    float: left;
+}
+.middle .agree .active {
+    background:url(../images/shop_cart_gou.png) no-repeat center;
+}
+.middle .agree span {
+    font-size:12px;
+    margin-top: 3px;
+    float: left;
+    margin-left: 10px;
+}
+.middle #thead {
+    margin-left:10%;
+    width:90%;
+}
+.middle #thead tr th{
+    border:0;
+}
+.middle #tbody {
+    margin-left:13%;
+    width:75%;
+    border:1px solid #4d4d4d;
+}
+.middle #tbody thead tr th {
+    border:0;
+}
+.middle #tbody thead tr th {
+    overflow:hidden;
+}
+.middle #tbody thead span {
+    font-size:12px;
+    color:#666;
+    background:#ededed;
+    padding: 7px 10px 3px;
+    float: left;
+}
+.middle #tbody thead p {
+    font-size:12px;
+    color:#666;
+    float: left;
+    margin:7px 0 0 13px;
+}
+.middle #tbody tbody tr td {
+    padding:15px 8px;
+}
+.middle #tbody tbody tr td:nth-child(2) {
+    width:52%;
+}
+.middle #tbody tbody .pic {
+    padding:0 15px 0 0;
+}
+.middle #tbody tbody .pic img{
+    width:100%;
+}
+.middle #tbody tbody .text h3 a{
+    font-size:18px;
+    font-weight:normal;
+    color:#666;
+    margin-bottom:7px;
+}
+.middle #tbody tbody .text p a{
+    font-size:12px;
+    font-weight:normal;
+    color:#999;
+    line-height:20px;
+}
+.middle #tbody tbody tr td:nth-child(3) p {
+    font-size:24px;
+    color:#f22;
+    text-align:center;
+}
+.middle #tbody tbody tr td:nth-child(3) p:nth-child(2) {
+    font-size:12px;
+    color:#f00;
+    border:1px solid #f00;
+    width:83px;
+    line-height:26px;
+    text-align:center;
+    margin:19px auto 0;
+}
+.middle #tbody tbody tr td:last-child {
+    vertical-align: middle;
+}
+.middle #tbody tbody .num button {
+    height: 26px;
+    width:17px;
+    background:transparent;
+    border:1px solid #4d4d4d;
+}
+.middle #tbody tbody .num input {
+    height: 26px;
+    margin: 0 -1px;
+    width:39px;
+    text-align: center;
+    border:1px solid #4d4d4d;
+}
+.middle .bottom {
+    background:#e7e7e7;
+    overflow:hidden;
+    padding-left: 125px;
+    padding-right: 90px;
+}
+.middle .bottom .left {
+    padding:18px 0;
+}
+.middle .bottom .left .allCheck {
+    overflow: hidden;
+    padding:0;
+}
+.middle .bottom .left .check {
+    float: left;
+}
+.middle .bottom .left .allCheck span {
+    float: left;
+    margin-left:10px;
+    font-size:12px;
+    color:#666;
+}
+.middle .bottom .left .button {
+    padding: 0;
+}
+.middle .bottom .left .button button{
+    background:transparent;
+    border:0;
+    font-size:12px;
+    color:#666;
+    line-height:20px;
+}
+.middle .bottom .right p {
+    font-size:12px;
+    color: #666;
+    line-height:56px;
+}
+.middle .bottom .right span {
+    color:#f22;
+}
+.middle .bottom .right .amount , .middle .bottom .right .price , .middle .bottom .right .button {
+    padding-right:0;
+}
+.middle .bottom .right .button a{
+    border:0;
+    background:#444242;
+    width:100%;
+    color:#fff;
+    line-height: 56px;
+    font-size:24px;
+    text-align: center;
+}

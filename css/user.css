@@ -1,0 +1,251 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .left {
+    width: 22%;
+    border: 1px solid #afafaf;
+    padding: 15px 15px 0;
+    float:left;
+}
+.middle .left h3 {
+    font-size: 16px;
+    padding-left: 65px;
+    border-bottom:1px solid #d0cece;
+    padding-bottom: 20px;
+    color:#333;
+    font-weight:normal;
+}
+.middle .left ul {
+    padding:10px 0;
+    margin-bottom: 35px;
+}
+.middle .left ul li {
+    padding-left: 65px;
+    line-height: 32px;
+}.middle .left ul li
+ a {
+    color: #666;
+}
+.middle .left .current a{
+    color:#f22;
+}
+.middle .left ul li:hover a {
+    color:#f22;
+}
+.middle .right {
+    overflow:hidden;
+}
+.middle .right .top {
+    border:1px solid #d2d2d2;
+    overflow:hidden;
+    padding: 10px;
+}
+.middle .information {
+    border-right: 1px dashed #d2d2d2;
+}
+.middle .photo img{
+    border-radius: 50px;
+    display: block;
+    margin: 28px auto;
+}
+.middle .information .text {
+    padding-right: 0;
+}
+.middle .information .text p {
+    font-size:16px;
+    color:#999;
+    margin-bottom:18px;
+}
+.middle .information .text .name {
+    font-size:16px;
+    color:#666;
+}
+.middle .information .text p:last-child {
+    margin-bottom:0;
+}
+.middle .information .text p img {
+    margin-right:10px;
+}
+.middle .information .text a {
+    padding: 0;
+    text-align:center;
+    color:#999;
+}
+.middle .information .text a img {
+    margin-right: 5px;
+}
+.middle .information .text button {
+    padding: 0;
+    background:transparent;
+    border:0;
+    color:#999;
+}
+.middle .information .text button img {
+    margin-right: 5px;
+}
+.middle .order {
+    padding: 0;
+}
+.middle .order ul li {
+    padding: 0;
+    text-align: center;
+    font-size:16px;
+    color:#999;
+    margin:5px 0;
+}
+.middle .order ul li a {
+    line-height:25px;
+    color:#999;
+    font-size:16px;
+}
+.middle .integral {
+    padding: 10px 20px;
+    background:#f4f2f2;
+    margin:5px 0;
+}
+.middle .integral p {
+    margin-bottom:18px;
+}
+.middle .integral p:last-child {
+    margin-bottom:0;
+}
+.middle .integral p a{
+    font-size:16px;
+    color:#999;
+}
+.middle .center {
+    overflow:hidden;
+    margin:70px 0 60px;
+}
+.middle .center .address {
+    padding: 14px 18px;
+    border:1px solid #cdcbcb;
+    width: 39%;
+    margin-left:10%;
+}
+.middle .center .address h3 {
+    font-size:16px;
+    color:#999;
+    line-height:30px;
+    font-weight:normal;
+    border-bottom:1px solid #cdcbcb;
+    margin-bottom:7px;
+}
+.middle .center .address p {
+    font-size:16px;
+    color:#999;
+    line-height:30px;
+}
+.middle .center .address a {
+    float: left;
+    font-size:16px;
+    color:#999;
+    margin-top:18px;
+}
+.middle .center .address a img {
+    margin-right:10px;
+}
+.middle .center .address button {
+    float: left;
+    border:0;
+    background:transparent;
+    font-size:16px;
+    color:#999;
+    margin-left:18px;
+    margin-top:18px;
+}
+.middle .center .address button img {
+    margin-right:10px;
+}
+.middle .center .add {
+    background:#e2dede;
+     width: 39%;
+     margin-left:7%;
+}
+.middle .center .add button {
+    width: 100%;
+    height: 198px;
+    background:transparent;
+    border:0;
+}
+.middle .center .add button p {
+    margin-top:18px;
+    font-size:16px;
+    color:#666;
+}
+.middle #thead {
+    background:#e2dfdf;
+    margin-left:3%;
+    width: 97%;
+}
+.middle #thead tr {
+    overflow:hidden;
+}
+.middle #thead tr th {
+    font-size:16px;
+    color:#666;
+    padding:12px 15px 12px 30px;
+}
+.middle #tbody {
+    border:1px solid #cdcbcb;
+    margin-left:3%;
+    width: 97%;
+}
+.middle #tbody tr td {
+    vertical-align: middle;
+}
+.middle #tbody h3 {
+    font-size:18px;
+    font-weight:normal;
+    color:#666;
+    line-height:25px;
+}
+.middle #tbody .pro_text {
+    padding: 0;
+    margin-top: 10px;
+}
+.middle #tbody .pro_text p {
+    font-size:14px;
+    font-weight:normal;
+    color:#666;
+}
+.middle #tbody tr td:first-child {
+    width: 50%;
+}
+.middle #tbody tr td:nth-child(2) {
+    color:#f22;
+}
+.middle #tbody button {
+    display: block;
+    border:0;
+    background:transparent;
+    color:#666;
+    padding: 3px 6px;
+}
+.middle #tbody .pay {
+    background:#eb2f2f;
+    color:#fff;
+}
+.middle #tbody tr td:last-child a {
+    color:#666;
+}
+.middle .more {
+    float: right;
+}
+.middle .more button {
+    background:#eb2f2f;
+    color:#fff;
+    border:0;
+    font-size:16px;
+    padding: 10px 35px;
+}

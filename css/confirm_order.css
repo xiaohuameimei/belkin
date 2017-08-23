@@ -1,0 +1,193 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .address {
+    border:1px solid #cfcccc;
+}
+.middle .address h3 {
+    font-size:16px;
+    color:#666;
+    font-weight:normal;
+    line-height:32px;
+    padding-left:14px;
+    border-bottom:1px solid #cfcccc;
+}
+.middle .address ul {
+    overflow:hidden;
+    padding-right: 1.5%;
+}
+.middle .address ul li {
+    background: url(../images/confirm_order_address02.png) no-repeat;
+    background-size: 100% 100%;
+    font-size:16px;
+    color:#7b7b7b;
+    padding: 0;
+    border:1px solid #cfcccc;
+    padding:5.5px 0;
+    margin:13px 0 13px 1.5%;
+    width: 23.5%;
+    cursor: pointer;
+}
+.middle .address ul li:last-child {
+    background:none;
+    padding:0;
+}
+.middle .address ul li p {
+    line-height:30px;
+    font-size:16px;
+    color:#666;
+}
+.middle .address ul li p:first-child {
+    overflow: hidden;
+    line-height:37px;
+}
+.middle .address ul li:last-child a {
+    background:transparent;
+    border:0;
+    width:100%;
+    text-align: center;
+}
+.middle .address ul li:last-child a img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 17px;
+}
+.middle .address ul li:last-child a span {
+    font-size: 16px;
+    color:#999;
+    line-height:47px;
+}
+.middle .address ul li:hover {
+    background: url(../images/confirm_order_address01.png) no-repeat;
+    background-size: 100% 100%;
+}
+.middle .address ul li:last-child:hover {
+    background:none;
+}
+.middle .address ul .active {
+    background: url(../images/confirm_order_address01.png) no-repeat;
+    background-size: 100% 100%;
+}
+.middle table {
+    margin-top:30px;
+}
+.middle table thead {
+}
+.middle table thead tr th{
+    line-height:33px;
+    background:#cfcccc;
+    color:#666;
+    font-size:16px;
+    text-align: center;
+}
+.middle table thead tr th:first-child {
+    padding-left:80px;
+}
+.middle table tbody tr td:first-child {
+    padding-left:80px;
+    width:45%;
+}
+.middle table tbody tr {
+    text-align: center;
+}
+.middle table tbody tr td {
+    vertical-align:middle;
+}
+.middle table tbody tr td a {
+    float: left;
+}
+.middle table tbody tr td .name {
+    float: left;
+    margin-left:35px;
+    text-align: left;
+    margin-top:27px;
+}
+.middle table tbody tr td p {
+    font-size:18px;
+    color:#333;
+}
+.middle table tbody tr td span {
+    font-size:14px;
+    color:#666;
+}
+.middle table tbody tr td button {
+    background:transparent;
+    border:0;
+}
+.middle .text {
+    margin-top:25px;
+    overflow:hidden;
+    padding:7px 0 7px 80px;
+    line-height: 35px;
+    border:1px solid #cfcccc;
+}
+.middle .text label {
+    color:#666;
+    font-size:16px;
+    font-weight:normal;
+}
+.middle .text .message {
+    float: left;
+}
+.middle .text span {
+    font-size: 16px;
+    color:#666;
+    margin-left:5px;
+}
+.middle .text button {
+    color:#999;
+    font-size:16px;
+    background:transparent;
+    border:0;
+    margin-left:30px;
+}
+.middle .text textarea {
+    margin-left:5px;
+    width:360px;
+    padding:7px;
+    line-height: 20px;
+    height: 70px;
+    border-color:#cfcccc;
+}
+.middle .price {
+    margin-top:30px;
+    overflow:hidden;
+}
+.middle .price label {
+    display: block;
+    text-align: right;
+    font-weight:normal;
+    line-height:20px;
+    font-size:16px;
+}
+.middle .price .form-group{
+    margin-bottom:12px;
+}
+.middle .price p {
+    line-height:20px;
+    margin-bottom:5px;
+    color:#f00;
+    font-size:16px;
+}
+.middle .price .col-md-2,.middle .price .col-md-1 {
+    padding: 0;
+}
+.middle .submit {
+    margin-top:20px;
+    background:#f22;
+    border:0;
+    color:#fff;
+    float: right;
+    font-size:16px;
+    padding: 8px 34px;
+}

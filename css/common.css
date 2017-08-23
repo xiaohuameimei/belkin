@@ -1,0 +1,227 @@
+.header .top {
+    background: #000;
+    font-size: 14px;
+    color: #fff;
+    padding:4px 0 3px;
+}
+.header .top .left {
+    display: inline-block;
+}
+.header .top .left a {
+    background:transparent;
+    border: 0;
+    color:#fff;
+    margin-right: 17px;
+}
+.header .top .right {
+    float: right;
+    margin-right: 35px;
+}
+.header .top .right p {
+    display: inline-block;
+    float: left;
+}
+.header .top .right .login {
+    float: left;
+}
+.header .top .right .login a {
+    color:#fff;
+    margin-left: 7px;
+}
+.header .top .right .login a:nth-child(1) {
+    background:#f00;
+    border-radius: 5px;
+    padding:0 5px;
+}
+.header .top .right ul {
+    float:left;
+}
+.header .top .right ul li {
+    float: left;
+    margin-left:22px;
+}
+.header .top .right ul li a {
+    color:#fff;
+}
+.header .center .logo {
+    margin-top: 40px;
+}
+.header .center .logo img{
+    padding-left:18px;
+}
+.header .center .search {
+    margin:48px 0 50px;
+}
+.header .center .search input {
+    line-height: 45px;
+    height: 45px;
+    border-color: #000;
+    border-radius:0;
+    font-size:18px;
+}
+.header .center .search span button {
+    padding:0 27px;
+    font-size:28px;
+    line-height: 45px;
+    background:#000;
+    color:#fff;
+    border:0;
+}
+.header .center .search .btn-default:hover {
+    background:#000;
+    color:#fff;
+}
+.header .center .icon {
+    margin: 37px 0;
+    text-align: center;
+}
+.header .center .icon span {
+    line-height:28px;
+}
+.header .bottom {
+    background:#000;
+}
+.header .bottom ul li a {
+    color:#fff;
+}
+.header .bottom .nav-tabs {
+    float: left;
+}
+.header .bottom .nav-tabs > li {
+    margin-left:40px;
+}
+.header .bottom .nav-tabs > li:nth-child(1) {
+    margin-right:20px;
+}
+.header .bottom .nav-tabs > li > a {
+    padding:14px 0 9px 0;
+    font-size:20px;
+    border-bottom:3px solid #000;
+}
+.header .bottom .shop_cart {
+    background:#ff2222;
+    float: right;
+
+     position:relative;
+}
+.header .bottom .shop_cart a {
+    border-bottom:0;
+    float: left;
+    padding: 0;
+    padding:11px 50px 7px 50px;
+}
+.header .bottom .shop_cart img {
+    float: left;
+}
+.header .bottom .shop_cart span{
+    background:#fff;
+    color:#f00;
+    position: absolute;
+    top:2px;
+    padding:3px 5px;
+}
+.header .bottom .shop_cart i {
+    color:#fff;
+    font-size:20px;
+    margin-left:25px;
+     float: left;
+}
+.header .bottom .nav-tabs .current a{
+    color:#f00;
+    border-bottom:3px solid #f00;
+}
+.header .bottom .nav-tabs > li > a:hover {
+    color:#f00;
+    border-bottom:3px solid #f00;
+}
+.header .bottom .shop_cart a:hover {
+    border:0;
+    color:#fff;
+}
+.header .bottom .dropdown {
+    background:#ff2222;
+    line-height: 54px;
+    cursor: pointer;
+    float: left;
+}
+.header .bottom .dropdown .dropdown-toggle{
+    font-size:28px;
+    padding:0 55px;
+    line-height: 54px;
+    color:#fff;
+    display: block;
+    border:0;
+}
+.header .bottom a:hover, .header .bottom a:focus {
+    text-decoration: none;
+}
+.header .bottom .dropdown .dropdown-menu {
+    background:#000;
+    border-radius:0;
+    box-shadow:none;
+    width:248px;
+    height: 446px;
+    padding:30px;
+    margin:0;
+}
+.header .bottom .dropdown .dropdown-menu li h3{
+    font-size:18px;
+    color:#f00;
+    font-weight: normal;
+    text-align:center;
+    line-height:30px;
+}
+.header .bottom .dropdown .dropdown-menu .kind {
+    margin-top:18px;
+}
+.header .bottom .dropdown .dropdown-menu .kind:nth-child(1) ul li{
+    width:20%;
+}
+.header .bottom .dropdown .dropdown-menu .kind ul {
+    overflow: hidden;
+}
+.header .bottom .dropdown .dropdown-menu .kind ul li{
+    color:#fff;
+    float: left;
+    width:33.333333%;
+    text-align: center;
+    line-height:24px;
+}
+.header .bottom .dropdown .dropdown-menu li ul li:hover a{
+    color:#f00;
+}
+.footer .top {
+    margin-bottom:22px;
+    overflow:hidden;
+}
+.footer .top li h3{
+    font-size:18px;
+    display: inline-block;
+    color:#333333;
+}
+.footer .center {
+    background:#000;
+    color:#fff;
+    padding: 22px 0 20px;
+}
+.footer .center h3 {
+    font-size:24px;
+    line-height:40px;
+    font-weight: normal;
+}
+.footer .center a {
+    color:#fff;
+    font-size:18px;
+    line-height:30px;
+}
+.footer .bottom {
+    background:#d8d3d3;
+}
+.footer .bottom p {
+    text-align: center;
+    font-size:24px;
+    line-height:80px;
+    color:#333;
+}
+
+

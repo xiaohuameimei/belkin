@@ -1,0 +1,94 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .left {
+    width: 22%;
+    border: 1px solid #afafaf;
+    padding: 15px 15px 0;
+    float:left;
+}
+.middle .left h3 {
+    font-size: 16px;
+    padding-left: 65px;
+    border-bottom:1px solid #d0cece;
+    padding-bottom: 20px;
+    color:#333;
+    font-weight:normal;
+}
+.middle .left ul {
+    padding:10px 0;
+    margin-bottom: 35px;
+}
+.middle .left ul li {
+    padding-left: 65px;
+    line-height: 32px;
+}.middle .left ul li
+ a {
+    color: #666;
+}
+.middle .left .current a{
+    color:#f22;
+}
+.middle .left ul li:hover a {
+    color:#f22;
+}
+.middle .right {
+    float: left;
+    margin-left: 3.5%;
+    width: 74.5%;
+}
+.middle .right .title {
+    border-bottom: 1px solid #cdcbcb;
+}
+.middle .right .title h3 {
+    font-size:20px;
+    padding-left:28px;
+    font-weight: normal;
+    color:#666;
+    line-height:44px;
+}
+.middle .table_hd thead{
+    background: #e2dfdf;
+}
+.middle .table_hd thead tr th {
+    text-align: center;
+    color:#666;
+    line-height: 47px;
+    font-size:16px;
+}
+.middle .table_bd {
+    margin-top: 33px;
+    border:1px solid #bbb7b7;
+}
+.middle .table_bd tr td {
+    border-color: #bbb7b7;
+    line-height:78px;
+    color:#666;
+    text-align: center;
+}
+.middle .table_bd tr td button {
+    background:transparent;
+    border:0;
+    color:#666;
+    text-align: center;
+    padding:0 7px;
+}
+.middle .add {
+    float: right;
+    width: 14%;
+    background:#f22;
+    color:#fff;
+    border:0;
+    font-size:16px;
+    line-height:47px;
+}

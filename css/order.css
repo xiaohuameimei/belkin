@@ -1,0 +1,213 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .title {
+    font-size: 24px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    border-bottom: 1px solid #b5b5b5;
+    color:#444559;
+    font-weight: normal;
+    margin-bottom:21px;
+}
+.middle .time {
+    margin-bottom:21px;
+}
+.middle .time label {
+    font-weight:normal;
+    font-size:18px;
+    padding-left:25px;
+    line-height:40px;
+    color:#444559;
+}
+.middle .date {
+    padding: 0;
+}
+.middle .date span {
+    padding: 0 1%;
+}
+.middle input {
+    width: 46.5%;
+    font-size:14px;
+    height: 40px;
+    text-align: center;
+}
+.middle .time ul {
+    overflow:hidden;
+}
+.middle .time ul li {
+    float: left;
+    font-size:18px;
+}
+.middle .time ul li a {
+    border: 0;
+    background: transparent;
+    padding: 7.5px 14px;
+    color:#444559;
+}
+.middle .time ul .active {
+    background:#b5b5b5;
+}
+.middle .time ul .active a {
+    color:#fff;
+}
+.middle .time ul li:hover {
+    background:#b5b5b5;
+}
+.middle .time ul li:hover a{
+    color:#fff;
+}
+.middle .kind {
+    margin-bottom:21px;
+}
+.middle .kind label {
+    font-size:16px;
+    color:#666;
+    font-weight:normal;
+    padding-left:25px;
+    line-height:27px;
+}
+.middle .kind .all {
+    background:#b5b5b5;
+    border:0;
+    color:#fff;
+    padding: 2.5px 8px;
+    width:5%;
+    font-size:16px;
+    margin-left: 15px;
+}
+.middle .kind ul li{
+    font-size:16px;
+    color:#666;
+}
+
+.middle .kind ul li a {
+    background:transparent;
+    border:0;
+    font-size:16px;
+    line-height:27px;
+    color:#666;
+}
+.middle .kind .active a{
+    color:#f22;
+}
+.middle .status label {
+    font-size:16px;
+    color:#666;
+    font-weight:normal;
+    padding-left:25px;
+    line-height:27px;
+}
+.middle .status .all {
+    background:#b5b5b5;
+    border:0;
+    color:#fff;
+    padding: 2.5px 8px;
+    width:5%;
+    font-size:16px;
+    margin-left: 15px;
+}
+.middle .status ul li{
+    font-size:16px;
+    color:#666;
+    width: 12%;
+    padding: 0 13px;
+}
+.middle .status ul li:nth-child(5) {
+    width:12%;
+}
+.middle .status ul li a {
+    background:transparent;
+    border:0;
+    font-size:16px;
+    line-height:27px;
+    color:#666;
+}
+.middle .status .active a{
+    color:#f22;
+}
+.middle table {
+    margin-top:30px;
+}
+.middle table tr th , .middle table tr td {
+    border:0;
+    vertical-align: middle;
+}
+.middle table tr th {
+    font-size:20px;
+    color:#666;
+}
+ .middle table tr td {
+    font-size:16px;
+    color:#666;
+    padding: 11px 8px;
+ }
+.middle table tr td .pic {
+    padding: 0;
+}
+.middle table tr td .pic img {
+    width:100%;
+}
+.middle table tr td .text {
+    width:56%;
+}
+.middle table tr td .text h3{
+    font-size:18px;
+    color:#666;
+    font-weight:normal;
+    line-height:25px;
+    margin-bottom:4px;
+}
+.middle table tr td .text p{
+    font-size:12px;
+    color:#999;
+    line-height:22px;
+}
+ .middle table tr td:nth-child(2) {
+    font-size:24px;
+    color:#f22;
+ }
+ .middle table tr td:nth-child(4) a:hover {
+    color:#f22;
+ }
+ .middle .page {
+    overflow:hidden;
+    float: right;
+    margin-right:5px;
+    margin-top:27px;
+}
+.middle .page li {
+    float: left;
+    border:1px solid #b5b5b5;
+    margin-left:20px;
+    color:#666;
+}
+.middle .page li:nth-child(5){
+    padding:5px 15px;
+}
+.middle .page li a {
+    color:#333;
+    padding:5px 15px;
+}
+.middle .page .active {
+    border-color: #f00;
+}
+.middle .page .active a{
+    color:#f00;
+}
+.middle .page li:hover {
+    border-color: #f00;
+}
+.middle .page li:hover a {
+    color:#f00;
+}

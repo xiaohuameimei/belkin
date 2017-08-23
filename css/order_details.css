@@ -1,0 +1,162 @@
+.middle {
+    overflow: hidden;
+    margin-bottom:40px;
+}
+.middle .position {
+    line-height:57px;
+}
+.middle .position span {
+    color: #f22;
+}
+.middle .position a:hover {
+    color: #f22;
+}
+.middle .left {
+    width: 22%;
+    border: 1px solid #afafaf;
+    padding: 15px 15px 0;
+    float:left;
+}
+.middle .left h3 {
+    font-size: 16px;
+    padding-left: 65px;
+    border-bottom:1px solid #d0cece;
+    padding-bottom: 20px;
+    color:#333;
+    font-weight:normal;
+}
+.middle .left ul {
+    padding:10px 0;
+    margin-bottom: 35px;
+}
+.middle .left ul li {
+    padding-left: 65px;
+    line-height: 32px;
+}.middle .left ul li
+ a {
+    color: #666;
+}
+.middle .left .current a{
+    color:#f22;
+}
+.middle .left ul li:hover a {
+    color:#f22;
+}
+.middle .right {
+    float: left;
+    margin-left: 3.5%;
+    width: 74.5%;
+}
+.middle .right .title {
+    border-bottom: 1px solid #cdcbcb;
+}
+.middle .right .title h3 {
+    font-size:20px;
+    padding-left:37px;
+    font-weight: normal;
+    color:#666;
+    line-height:44px;
+}
+.middle .overview {
+    padding: 18px 36px;
+    border:1px solid #cdcbcb;
+    margin-top:25px;
+    background:url(../images/order_details_bg.png) no-repeat center 87px;
+    background-size: 91%;
+}
+.middle .overview h3 {
+    color:#666;
+    font-size:18px;
+    font-weight:normal;
+    line-height:30px;
+}
+.middle .overview p {
+    font-size:16px;
+    color:#999;
+    line-height:32px;
+}
+.middle .overview p:nth-child(2) {
+    line-height:35px;
+    margin-bottom:14px;
+}
+.middle .overview p span {
+    margin-left:30px;
+}
+.middle .overview p i {
+    color:#f22;
+    font-style: normal;
+    margin-right: 12px;
+}
+.middle .details {
+    padding: 18px 36px;
+    border:1px solid #cdcbcb;
+    margin-top:25px;
+}
+.middle .details h3 {
+    color:#666;
+    font-size:18px;
+    font-weight:normal;
+    line-height:30px;
+}
+.middle table {
+    width:570px;
+    margin: 5px auto 0;
+}
+.middle table tr th , .middle table tr td {
+    font-size:18px;
+    color:#666;
+    line-height:36px;
+}
+.middle table tr td:first-child {
+    width:40%;
+}
+.middle .list {
+    padding: 18px 36px;
+    border:1px solid #cdcbcb;
+    margin-top:25px;
+}
+.middle .list h3 {
+    color:#666;
+    font-size:18px;
+    font-weight:normal;
+    line-height:30px;
+}
+.middle .list .pro {
+    border-top: 1px solid #cdcbcb;
+    overflow:hidden;
+    border-bottom: 1px dashed #cdcbcb;
+    padding: 40px 0 20px;
+}
+.middle .list .pro .text p a{
+    font-size:18px;
+    color:#666;
+    margin-top:10px;
+    line-height:30px;
+}
+.middle .list .pro .text span{
+    font-size:14px;
+    color:#666;
+    margin-right:50px;
+}
+.middle .list .num {
+    margin-top:40px;
+}
+.middle .list .num p{
+    font-size:14px;
+    color:#666;
+}
+.middle .list .num p:last-child{
+    color:#eb2f2f;
+}
+.middle .price {
+    margin-top:10px;
+}
+.middle .price p {
+    text-align: right;
+    font-size:16px;
+    color:#666;
+    line-height:30px;
+}
+.middle .price span {
+    color:#eb2f2f;
+}
